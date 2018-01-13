@@ -5,7 +5,7 @@ public class Docente {
     private String ruolo;
     private DialogDirector dd;
 
-    public Docente(DialogDirector dd, String s, String ss){
+    protected Docente(DialogDirector dd, String s, String ss){
         this.dd = dd;
         name = s;
         ruolo = ss;

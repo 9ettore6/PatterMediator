@@ -1,4 +1,4 @@
-package comunication;
+import comunication.*;
 
 public class Principale {
     public static void main(String[] argv) {
